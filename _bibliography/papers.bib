@@ -1,9 +1,43 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
+string{aps = {American Physical Society,}}
 
-@book{einstein1956investigations,
+@inproceedings{alamgir-haque-2023-team,
+    abbr={BLP-2023},
+    title = "Team {C}entre{B}ack at {BLP}-2023 Task 1: Analyzing performance of different machine-learning based methods for detecting violence-inciting texts in {B}angla",
+    author = "Alamgir, Refaat Mohammad  and Haque, Amira",
+    editor = "Alam, Firoj  and
+      Kar, Sudipta  and
+      Chowdhury, Shammur Absar  and
+      Sadeque, Farig  and
+      Amin, Ruhul",
+    booktitle = "Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.banglalp-1.18",
+    doi = "10.18653/v1/2023.banglalp-1.18",
+    pages = "168--173",
+    abstract = "Like all other things in the world, rapid growth of social media comes with its own merits and demerits. While it is providing a platform for the world to easily communicate with each other, on the other hand the room it has opened for hate speech has led to a significant impact on the well-being of the users. These types of texts have the potential to result in violence as people with similar sentiments may be inspired to commit violent acts after coming across such comments. Hence, the need for a system to detect and filter such texts is increasing drastically with time. This paper summarizes our experimental results and findings for the shared task on The First Bangla Language Processing Workshop at EMNLP 2023 - Singapore. We participated in the shared task 1 : Violence Inciting Text Detection (VITD). The objective was to build a system that classifies the given comments as either non-violence, passive violence or direct violence. We tried out different techniques, such as fine-tuning language models, few-shot learning with SBERT and a 2 stage training where we performed binary violence/non-violence classification first, then did a fine-grained classification of direct/passive violence. We found that the best macro-F1 score of 69.39 was yielded by fine-tuning the BanglaBERT language model and we attained a position of 21 among 27 teams in the final leaderboard. After the competition ended, we found that with some preprocessing of the dataset, we can get the score up to 71.68.",
+    pdf={https://aclanthology.org/2023.banglalp-1.18.pdf},
+    html={https://aclanthology.org/2023.banglalp-1.18/},
+}
+
+@inproceedings{alamgir2022performance,
+  abbr={ICCIT 2022},
+  title={Performance analysis of yolo-based architectures for vehicle detection from traffic images in bangladesh},
+  author={Alamgir, Refaat Mohammad and Shuvro, Ali Abir and Al Mushabbir, Mueeze and Raiyan, Mohammed Ashfaq and Rani, Nusrat Jahan and Rahman, Md Mushfiqur and Kabir, Md Hasanul and Ahmed, Sabbir},
+  booktitle={2022 25th International Conference on Computer and Information Technology (ICCIT)},
+  pages={982--987},
+  year={2022},
+  organization={IEEE},
+  pdf={https://arxiv.org/pdf/2212.09144.pdf},
+  html={https://ieeexplore.ieee.org/abstract/document/10055758/},
+}
+
+book{einstein1956investigations,
   bibtex_show={true},
   title={Investigations on the Theory of the Brownian Movement},
   author={Einstein, Albert},
@@ -12,7 +46,7 @@
   preview={brownian-motion.gif}
 }
 
-@article{einstein1950meaning,
+article{einstein1950meaning,
   abbr={AJP},
   bibtex_show={true},
   title={The meaning of relativity},
@@ -25,7 +59,7 @@
   publisher={American Association of Physics Teachers}
 }
 
-@article{PhysRev.47.777,
+article{PhysRev.47.777,
   abbr={PhysRev},
   title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
   author={Einstein, A. and Podolsky, B. and Rosen, N.},
@@ -47,7 +81,7 @@
   selected={true}
 }
 
-@article{einstein1905molekularkinetischen,
+article{einstein1905molekularkinetischen,
   title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
   author={Einstein, A.},
   journal={Annalen der physik},
@@ -58,7 +92,7 @@
   publisher={Wiley Online Library}
 }
 
-@article{einstein1905movement,
+article{einstein1905movement,
   abbr={Ann. Phys.},
   title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
   author={Einstein, A.},
@@ -68,13 +102,13 @@
   year={1905}
 }
 
-@article{einstein1905electrodynamics,
+article{einstein1905electrodynamics,
   title={On the electrodynamics of moving bodies},
   author={Einstein, A.},
   year={1905}
 }
 
-@book{przibram1967letters,
+book{przibram1967letters,
   bibtex_show={true},
   title={Letters on wave mechanics},
   author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
