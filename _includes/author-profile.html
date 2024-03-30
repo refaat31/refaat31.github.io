@@ -36,6 +36,9 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
+      {% if author.bachelors %}
+      <li class="author__desktop"><i class="fas fa-fw fa-solid fa-graduation-cap icon-pad-right" aria-hidden="true"></i>{{ author.bachelors }}</li>
+      {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.arxiv %}
@@ -76,6 +79,9 @@
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow icon-pad-right" aria-hidden="true"></i>Stackoverflow</a></li>
       {% endif %}      
+      {% if author.leetcode %}
+      <li><a href="https://www.leetcode.com/{{ author.leetcode }}"><i class="fa-solid fa-code icon-pad-right"></i>LeetCode</a></li>
+      {% endif %}     
 
       <!-- Font Awesome icons / Social media -->
       {% if author.bluesky %}
