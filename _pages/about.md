@@ -11,14 +11,17 @@ Hello, World
 ======
 I'm glad you are here. A brief introduction if it's your first time.
 
-I am Refaat, a Computer Science graduate from the Islamic University of Technology.  Currently, I work as a Software QA Engineer at Therap (BD) Ltd. I am a - you guessed it - Muslim.
+I am Refaat, a Computer Science graduate from the Islamic University of Technology.  After graduating in 2022, I have been working as a Software QA Engineer at Therap (BD) Ltd. My responsibilities include writing & executing test plans, reporting issues, and also creating test data with SQL scripts & automation tools such as Cypress. A large part of my work also includes learning how the billing part of our software works, how our users interact with the system, analyzing the issues that they face and identifying & advocating for key areas of improvement.
 
-I love to learn new things - that has always been a constant for as long as I can remember. Yes, it can be overwhelming at times. But somewhere deep inside, I can reach for that energy to push forward. *To know more. To do more. To never stop learning.*
+I love to learn new things - that has always been a constant for as long as I can remember. Yes, it can be overwhelming at times. But somewhere deep inside, I seem to have that energy to push forward. *To know more. To do more. To never stop learning.*
 
-In particular, over the years, I have developed a great appreciation and skills related to Computer Science, particularly in the field of Natural Language Processing. I am fascinated by how far humanity has come in terms of building amazing tools to understand the vast amount of information available around us! But I understand (and also a bit intimidated) by how much it has come at the cost of our own privacy, of our own security.
+In particular, over the years, I have developed a great appreciation and skills related to Computer Science, especially in the field of Natural Language Processing (NLP). In my undergraduate thesis, we proposed a method for building a dataset to tackle query-based text summarization in Bangla. 
 
-I want to build a future where we all use AI responsibly. And that is why I want to work towards making my mark at the intersection of NLP, Software Engineering and Security/Privacy. I believe we have a long way to go still and many more challenges will uncover as the world of AI matures and evolves.
+Even though I am fascinated by how far humanity has come in terms of building amazing tools to understand the vast amount of information available around us, I understand (and I'm also a bit intimidated) by the security and privacy concerns that come with it. There are so many examples of sensitive data being leaked that the importance of protecting sensitive user information is well understood by all. Additionally, in my current role, great care is given to ensure PHI (Protected Health Information) is accessible only to the parties that absolutely require it, keeping in line with the HIPAA (Health Insurance Portability and Accountability Act). We always have to keep this in mind whenever we conduct tests on the software.
 
+The journey I have had so far has made me aspire to work in a role at the intersection of NLP, Software Engineering and Security/Privacy. I believe we have a long way to go still and many more challenges will uncover as the world of AI matures and evolves.
+
+In my spare time, I love to play football and table tennis.
 
 Research Interests
 ======
