@@ -1,0 +1,2 @@
+1. Add markdown content to home page - https://github.com/cotes2020/jekyll-theme-chirpy/issues/708
+2. bundle install --redownload

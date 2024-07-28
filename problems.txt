@@ -1,0 +1,2 @@
+1. need to fix image preview (when loading from google drive) - a. how to turn off image preview? b. how to ensure preview is correct?
+2. need to figure out how to give "gdb" syntax in code
