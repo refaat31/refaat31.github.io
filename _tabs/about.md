@@ -25,17 +25,17 @@ I work in the Billing Team as a Software QA Engineer. Some of the things that I 
 * Writing scripts for creating test data and automating workflows using Cypress, Javascript & SQL
 
 ![Desktop View](https://drive.google.com/thumbnail?id=1WAsQPznhXHNWC2QLgjn0wamV3JUi5uqo&sz=w1000){: w="700" h="400" }
-*Image : My office*
+*Image : Our office*
 
 ![Desktop View](https://drive.google.com/thumbnail?id=1W4qFeWRPXPGzQwJBJ2lJizlo3RCIgV9A&sz=w1000){: w="700" h="400" }
-*Image : A small part of Billing Team*
+*Image : A small part of the Billing Team*
 
 ## IUT
 I graduated from Islamic University of Technology (IUT) in 2022 with a B.Sc. (Engg.) in Computer Science and Engineering. My undergraduate thesis topic was - A Semi-Automated Approach to Generate Bangla Dataset for Question-Answering and Query-Based Text Summarization.
 
 1. Some of the courses taken:
-   * **Programming** - Structured Programming, Object Oriented Programming, Theory of Computing
-   * **Core CS** - Database Management Systems, Operating Systems, Microprocessor and Assembly Language
+   * **Programming** - Structured Programming, Object Oriented Programming
+   * **Core CS** - Database Management Systems, Operating Systems, Microprocessor and Assembly Language, Theory of Computing
    * **Specialized courses** - Artificial Intelligence, Cryptography and Network Security
    * **Maths** - Linear Algebra, Probability and Statistics, Integral Calculus and Differential Equations
    * **and many more...**
