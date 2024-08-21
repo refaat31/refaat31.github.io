@@ -60,7 +60,7 @@ If you keep the intercept on, you’ll notice that you get a token after creatin
 
 Now, if we try to click on “GET FLAG” again, we will notice that the token is passed. Let’s try to understand what it is. 
 
-It’s obviously a **JWT(JSON Web Token)**. Let’s head over to https://jwt.io/ and decode this.
+It’s obviously a **JWT(JSON Web Token)**. Let’s head over to [https://jwt.io/](https://jwt.io/) and decode this.
 
 ![Desktop View](https://drive.google.com/thumbnail?id=1BBjZljHkgnV2eptZ5sZHdJQ8giVTs-Ul&sz=w1000){: w="700" h="400" }
 *Image 4 : decoding the JWT token*
@@ -150,7 +150,7 @@ console.log(`${jwtHeader}.${payload}.${newSignature}`)
 
 Now, enter this token in the intercepted request in Burp Suite to get the flag :
 
-LITCTF{v3rifyed_thI3_Tlme_1re4DV9}
+```LITCTF{v3rifyed_thI3_Tlme_1re4DV9}```
 
 ## Unsolved
 
