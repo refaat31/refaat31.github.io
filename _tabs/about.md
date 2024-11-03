@@ -13,7 +13,8 @@ order: 4
 
 ## Therap
 
-My journey with Therap (BD) Ltd. started on the 1st of September, 2022. 
+My journey with Therap (BD) Ltd. started on the 1st of September, 2022. Check out my work card <a href="https://therapbd.com/employee-profile/?userId=0f72bv" target="_blank">here</a>.
+
 Therap is a US-based software company providing software as a service (SaaS) to governments and private organizations that provide services to people with intellectual and developmental disabilities.
 
 I work in the Billing Team as a Software QA Engineer. Some of the things that I do:
@@ -67,6 +68,6 @@ I was fortunate enough to have some awards in my life.
 * Awarded by - *Islamic University of Technology*
 
 2. **City Highest in IGCSE Accounting in Riyadh**
-* Awarded in recognition of attaining the [city highest marks](https://drive.google.com/file/d/1uZTCl6foCABrn5vjdd6SCwNvxj49Duiq/view) in IGCSE Accounting Exam
+* Awarded in recognition of attaining the <a href="https://drive.google.com/file/d/1uZTCl6foCABrn5vjdd6SCwNvxj49Duiq/view" target="_blank">city highest marks</a> in IGCSE Accounting Exam
 * Awarded by - *Cambridge Learner Awards*
 
